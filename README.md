@@ -19,4 +19,4 @@ C++ 单链表完整实现（考研数据结构基础代码）
 ## 本地编译运行
 ### 编译命令（Git Bash / VSCode终端）
 ```bash
-g++ linklist.cpp -o linklist.exe
+g++ linklist-code.cpp -o linklist-code.exe
